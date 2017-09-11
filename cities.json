@@ -72,7 +72,7 @@
 			"type": "Feature",
 			"geometry": null,
 			"properties": {
-				"geohashes": ["uon6q", "uon6r", "uon6w", "uon6x", "uon6y", "uon6z", "uon7p", "uond2", "uond3", "uond6", "uond8", "uond9", "uondb", "uondc", "uondd", "uondf", "uone0", "uone1", "uone4"]
+				"geohashes": ["u0n6q","u0n6r","u0n6w","u0n6x","u0n6y","u0n6z","u0n7p","u0nd2","u0nd3","u0nd6","u0nd8","u0nd9","u0ndb","u0ndc","u0ndd","u0ndf","u0ne0","u0ne1","u0ne4"]
 			}
 		}
 	},
