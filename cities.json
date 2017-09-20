@@ -94,7 +94,7 @@
 			"type": "Feature",
 			"geometry": null,
 			"properties": {
-				"geohashes": ["u09t7", "u09t9", "u09tc", "u09td", "u09te", "u09tf", "u09tgg", "u09tgk", "u09tm", "u09tq", "u09ts", "u09ts", "u09tu", "u09tv", "u09tw", "u09tx", "u09ty", "u09tz", "u09w1", "u09w4", "u09w5", "u09w6", "u09w7", "u09h", "u09wj", "u09wk", "u09wm", "u09wn", "u09wp", "u09wq", "u09wr", "u09v8", "u09vb", "u09y0"]
+				"geohashes": ["u09t7", "u09t9", "u09tc", "u09td", "u09te", "u09tf", "u09tg", "u09tk", "u09tm", "u09tq", "u09ts", "u09ts", "u09tu", "u09tv", "u09tw", "u09tx", "u09ty", "u09tz", "u09w1", "u09w4", "u09w5", "u09w6", "u09w7", "u09h", "u09wj", "u09wk", "u09wm", "u09wn", "u09wp", "u09wq", "u09wr", "u09v8", "u09vb", "u09y0"]
 			}
 		}
 	},
